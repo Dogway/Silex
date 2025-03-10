@@ -32,7 +32,7 @@
 	branch = main
 [submodule "packages/silex-dashboard"]
 	path = packages/silex-dashboard
-	url = git@github.com:silexlabs/silex-dashboard.git
+        url = https://gitlab.com/ceubri/dashboard-silexv3.git
 	branch = main
 [submodule "packages/grapesjs-data-source"]
 	path = packages/grapesjs-data-source
